@@ -5,7 +5,7 @@
 
 - 🌱 I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Parallel Programing, Database, Web Programming, Software Design, System Programming**
 
-- ⚡ Personal Website (in progress) **jingwenshi.dev**
+- ⚡ Personal Website (in progress) **[jingwenshi.dev](jingwenshi.dev)**
 
 - 📫 How to reach me **jingwensteven.shi@gmail.com**
 
