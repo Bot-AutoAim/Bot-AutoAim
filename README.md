@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingwen (Steven) Shi</h1>
 <h3 align="center">A fourth-year computer science and applied statistics double major student at the University of Toronto.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jingwenshi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jingwenshi-dev" /> </p>
-
 - 🔭 I’m currently working on [Twitter's algorithmic bias and misinformation research](https://github.com/jingwenshi-dev/Twitter-Algo-Bias-Misinfo-Research-Code)
 
 - 🌱 I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Parallel Programing, Database, Web Programming, Software Design, System Programming**
