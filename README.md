@@ -28,8 +28,6 @@
 <div></div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jingwenshi-dev&show_icons=true&locale=en&hide=jupyter%20notebook&layout=compact" alt="jingwenshi-dev" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jingwenshi-dev&show_icons=true&locale=en" alt="jingwenshi-dev" /></p>
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=jingwenshi-dev&limit=5&combine_all_yearly_contributions=true" alt="jingwenshi-dev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jingwenshi-dev&" alt="jingwenshi-dev" /></p>
 
 <h3 align="left">Recent Activities:</h3>
