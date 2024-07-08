@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jingwen (Steven) Shi</h1>
-<h3 align="center">A fourth-year CS + STAT double major student at the University of Toronto.</h3>
+<h3 align="center">A MEng. Computer Engineering student at the McMaster University.</h3>
+<h3 align="center">Graduated from the University of Toronto with high distinction in CS and STA</h3>
 
 - 🔭 I’m currently working on a [Sports Teammate Matching Web App](https://github.com/Big-Cow-King/PlayPal-Frontend/)
 
-
-
-
-- 🌱 I have learned **Algo & Data Structures, OS, Networks, Scalable Computing, Parallel Programming, Software Engineering, Web Programming, Deep Learning, AI, Computer Security, Databases, etc.**
+- 🌱 I have learned **Algo & Data Structures, OS, Computer Networks, Scalable Computing, Parallel Programming, Software Engineering, Web Programming, ML, Deep Learning, AI, Info & Computer Security, Databases, etc.**
 
 - ⚡ Personal Website (in progress) **[www.jingwenshi.dev](https://www.jingwenshi.dev/)**
 
